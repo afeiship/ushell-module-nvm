@@ -1,0 +1,20 @@
+{
+  "name": "ushell-module-nvm",
+  "homepage": "https://github.com/afeiship/ushell-module-nvm",
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "description": "Unix shell modules for nvm.",
+  "main": "index.sh",
+  "keywords": [
+    "ushell"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
