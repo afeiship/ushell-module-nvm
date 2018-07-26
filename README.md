@@ -2,6 +2,7 @@
 > Unix shell modules for nvm.
 
 ## resources:
++ http://bubkoo.com/2017/01/08/quick-tip-multiple-versions-node-nvm/
 
 ## commands:
 
@@ -9,3 +10,4 @@
 ```shell
 nvm unalias default
 ```
+
