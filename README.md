@@ -11,3 +11,14 @@
 nvm unalias default
 ```
 
+## common commands:
+```shell
+# use v10.7.0 as default:
+nvm alias default v10.7.0
+
+# list all node version:
+nvm ls-remote
+
+# list loca:
+nvm ls
+```
