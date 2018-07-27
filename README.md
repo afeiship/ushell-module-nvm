@@ -21,4 +21,7 @@ nvm ls-remote
 
 # list loca:
 nvm ls
+
+# install new version:
+nvm install v8.11.3
 ```
